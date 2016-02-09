@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "astronomicaedidi00maniuoft_0006.png"; bbox 0 0 1627 2517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 688 2313 1319 2343">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 688 2313 1319 2343">
+     <span class='ocr_line' id='line_1_1' title="bbox 688 2313 1319 2343; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 688 2315 866 2343; x_wconf 71' lang='lat' dir='ltr'>LIPSIAE:</span> <span class='ocrx_word' id='word_1_2' title='bbox 886 2315 1000 2342; x_wconf 74' lang='lat' dir='ltr'>TYPIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1019 2315 1054 2340; x_wconf 83' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1065 2313 1100 2341; x_wconf 76' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1110 2313 1319 2342; x_wconf 69' lang='lat' dir='ltr'>TEUBNERI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 619 2430 1266 2500">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 619 2430 1266 2500">
+     <span class='ocr_line' id='line_1_2' title="bbox 619 2430 1266 2500; baseline 0.006 -18"><span class='ocrx_word' id='word_1_6' title='bbox 619 2430 852 2484; x_wconf 67' lang='lat' dir='ltr'>Prinbed</span> <span class='ocrx_word' id='word_1_7' title='bbox 886 2438 935 2484; x_wconf 58' lang='lat'>1&#39;12</span> <span class='ocrx_word' id='word_1_8' title='bbox 968 2434 1266 2500; x_wconf 56' lang='lat' dir='ltr'>G&gt;97·mfln.y</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
